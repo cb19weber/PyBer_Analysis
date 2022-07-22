@@ -11,7 +11,7 @@ The specific purpose of the project in this module is to examine a dataset for r
 ### Analysis of Outcomes Based on Module
 The scatter-plot visual really communicated the greatest amount of information, while at the same time being very succinct.
 <p align="center">
-  <img src="https://github.com/cb19weber/School_District_Analysis/blob/main/Resources/size_summary_original.png" />
+  <img src="https://github.com/cb19weber/PyBer_Analysis/blob/main/analysis/Fig1.png" />
 </p>
 A few extremely notable points going on here. First, we can see a pretty clear, linear, relationship between the number of rides on a given day and the average fare per ride. This actually represents what most economists would consider to be a demand curve. As average fare decreases, riders demand more rides. As average fare <i>increases</i>, riders demand fewer rides. Riders are seen here as evaluating the trade-off of a more expensive ride-share service against finding some other mode of transportation.
 
