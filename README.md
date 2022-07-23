@@ -8,7 +8,7 @@ The specific purpose of the project in this module is to examine a dataset for r
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Module
+### Analysis of PyBer Fares Based on Module
 The scatter-plot visual really communicated the greatest amount of information, while at the same time being very succinct.
 <p align="center">
   <img src="https://github.com/cb19weber/PyBer_Analysis/blob/main/analysis/Fig1.png" />
@@ -23,7 +23,16 @@ Many economists love to share their fondness of ride-sharing apps. They represen
 
 The challenge faced for lesser populated areas is that the same algorithm used to determine fares is used as what would be in higher populated areas. Since there are fewer drivers in rural and suburban areas, supply is determined by PyBer to be low. Since there are fewer drivers available, the ride-sharing algorithm calculates costs to be higher, and therefore charges a higher rate. But we can see from the larger urban dataset that market equilibrium is probably reached at a lower rate.
 
-### Analysis of Outcomes Based on Challenge
+### Analysis of PyBer Fares Based on Challenge
+The challenge portion of the PyBer module may offer some additional support to the previous analysis, and may also support a hypothesis that the ride-sharing economy is relatively similar in markets, regardless of population.
+
+The initial assertion that the algorithm defining price may be negatively impacting lower populated areas is seen quite clearly in the following chart:
+
+<p align="center">
+  <img src="https://github.com/cb19weber/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" />
+</p>
+
+
 
 ### Challenges and Difficulties Encountered
 
