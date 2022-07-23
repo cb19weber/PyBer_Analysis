@@ -32,8 +32,14 @@ The initial assertion that the algorithm defining price may be negatively impact
   <img src="https://github.com/cb19weber/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" />
 </p>
 
+The total fares collected quite obviously increase based on population. The simple explanation here is that, of course, the total economy increases in larger areas. There are more people demanding more rides, and there are more drivers offering rides, so there are greater transactions. But when taken in with the larger data provided by PyBer, we might also offer that the economies in lesser populated areas are adversely affected more greatly by supply and demand outcomes rather than simply lower populations. If prices were adjusted in lower populated areas to make ride-shares more cost effective, demand would probably increase to a similar market equilibrium as we find in urban areas. As a result, the economy of ride-sharing would grow, and the market would likely dictate that additional drivers enter the market to supply the uptick in demand.
 
+The line chart above has a level of similarity between city types to indicate that the socio-economic behavior of citizens might be comparable regardless of where they live.
+
+The challenge graph also indicates for the periods presented that with the exception of some late February activity, demand for ride-sharing is pretty consistent throughout the late-winter and early-spring periods. It would be interesting to see as weather improves in the summer if ride-sharing demand dipped. One might hypothesize that people are more likely to consume ride-sharing services when other modalities like walking are less attractive due to weather. That hypothesis would have to be proven out in the data, but it's at least an interesting exploration.
 
 ### Challenges and Difficulties Encountered
+The first real adaptation of DataFrame.pivot()! Whew! It took some review and research to figure out the correct syntax to get the challenge pivot table built the correct way, but I can see how this will be an amazing tool to have for future data analysis. Making the data more succinct really helps to build the higher levels of understanding of stories presented within datasets.
 
 ## Results
+I am very pleased with the results of this module and look forward to continue growing and learning my Python prowess and increase my ability to use the various libraries. I really enjoyed building the charts and I can't wait to implement some Matplotlib work in my financial reporting models. I think this module will go a long way to helping users of the information I publish gain a better understanding of what's really happening so that hopefully we can continue to grow.
